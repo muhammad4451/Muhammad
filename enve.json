@@ -1,0 +1,29 @@
+{
+	"id": "66822b28-ea8d-4b7f-b2f4-27c62aa0c048",
+	"name": "Calculator",
+	"values": [
+		{
+			"key": "Url",
+			"value": "http://dneonline.com/calculator.asmx",
+			"enabled": true
+		},
+		{
+			"key": "intA",
+			"value": "2",
+			"enabled": true
+		},
+		{
+			"key": "intB",
+			"value": "6",
+			"enabled": true
+		},
+		{
+			"key": "id",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-08-08T08:20:02.820Z",
+	"_postman_exported_using": "Postman/8.10.0"
+}
